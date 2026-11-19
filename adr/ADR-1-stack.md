@@ -2,7 +2,7 @@
 status: "accepted"
 date: 2026-11-02
 decision-makers: Буцень Д.А. (архитектор)
-consulted: Заказчик (напарник)
+consulted: Козак М.М. (заказчик)
 informed: команда разработки
 ---
 
